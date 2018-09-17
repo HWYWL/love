@@ -281,6 +281,7 @@
 <script src="http://libs.baidu.com/jquery/1.8.3/jquery.min.js"></script>
 <script src="js/all.min.js"></script>
 <script src="js/love.min.js"></script>
+
 <div class="mPower"><span id="on" title="点击暂停"></span><span id="off" title="点击播放"></span></div>
 </body>
 </html>
